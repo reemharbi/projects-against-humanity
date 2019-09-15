@@ -1,14 +1,16 @@
-let apiUrl;
-const expressPort = 5000;
-const apiUrls = {
-  production: `https://projects-against-humanity.herokuapp.com/api`,
-  development: `http://localhost:${expressPort}/api`
-};
+export const apiUrl = "https://projects-against-humanity.herokuapp.com/";
 
-if (window.location.hostname === 'localhost') {
-  apiUrl = apiUrls.development;
-} else {
-  apiUrl = apiUrls.production;
-}
+// let apiUrl;
+// const expressPort = 5000;
+// const apiUrls = {
+//   production: `https://projects-against-humanity.herokuapp.com/api`,
+//   development: `http://localhost:${expressPort}/api`
+// };
 
-export default apiUrl;
+// if (window.location.hostname === 'localhost') {
+//   apiUrl = apiUrls.development;
+// } else {
+//   apiUrl = apiUrls.production;
+// }
+
+// export default apiUrl;
