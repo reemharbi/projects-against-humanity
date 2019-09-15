@@ -1,0 +1,14 @@
+
+p {
+    font-size: 8rem;
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    color: white;
+}
+
+.loading {
+    height: 100px;
+    width: 800px;
+    display: flex;
+    margin: auto auto;
+}
