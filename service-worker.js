@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/projects-against-humanity/precache-manifest.58f6e5bee78176ea87de855174c3b3ac.js"
+  "/projects-against-humanity/precache-manifest.eedc766fa995099a072acc8a222dc205.js"
 );
 
 self.addEventListener('message', (event) => {
