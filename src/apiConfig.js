@@ -1,4 +1,5 @@
-export const apiUrl = "https://projects-against-humanity.herokuapp.com/api";
+const apiUrl = "https://projects-against-humanity.herokuapp.com/api";
+ export default apiUrl;
 
 // let apiUrl;
 // const expressPort = 5000;
