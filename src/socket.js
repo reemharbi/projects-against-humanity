@@ -1,4 +1,4 @@
 
-const endpoint = "http://localhost:5000/";
+const endpoint = "https://projects-against-humanity.herokuapp.com/api";
 
 export default endpoint;
