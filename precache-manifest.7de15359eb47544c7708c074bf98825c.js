@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4bada8369ea68d71960587d3d60aa54",
+    "revision": "287c0012491a1c57103c287669696f5a",
     "url": "/projects-against-humanity/index.html"
   },
   {
-    "revision": "d1407ce7551ba64a1c08",
+    "revision": "a1b452e059f8dceed309",
     "url": "/projects-against-humanity/static/css/main.afd4ec5e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/projects-against-humanity/static/js/2.62eb9645.chunk.js"
   },
   {
-    "revision": "d1407ce7551ba64a1c08",
-    "url": "/projects-against-humanity/static/js/main.7c4d4b06.chunk.js"
+    "revision": "a1b452e059f8dceed309",
+    "url": "/projects-against-humanity/static/js/main.a1114448.chunk.js"
   },
   {
     "revision": "81b5aff6c994fc85f095",
